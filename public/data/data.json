@@ -1,0 +1,445 @@
+[
+  {
+    "title": "gamestore v2",
+    "desc": "An online store for browsing and buying video games.",
+    "category": "code",
+    "technologies": ["react"],
+    "thumbnail": {
+      "path": "/images/thumbnails/code.svg",
+      "alt": "Code illustration"
+    },
+    "preview": {
+      "path": "/images/previews/21.jpg",
+      "alt": ""
+    },
+    "date": 2025,
+    "previewUrl": "https://www.mjwals.co.uk/gamestorev2",
+    "codeUrl": "https://github.com/mjwals/gamestore-v2"
+  },
+  {
+    "title": "taxtharich",
+    "desc": "A tax calculator based on The Times’ list of the 300 richest people in the UK.",
+    "category": "code",
+    "technologies": ["vue"],
+    "thumbnail": {
+      "path": "/images/thumbnails/code.svg",
+      "alt": "Code illustration"
+    },
+    "preview": {
+      "path": "/images/previews/22.jpg",
+      "alt": ""
+    },
+    "date": 2024,
+    "previewUrl": "https://www.mjwals.co.uk/taxtharich",
+    "codeUrl": "https://github.com/mjwals/taxtharich"
+  },
+  {
+    "title": "gamestore v1",
+    "desc": "An online store for browsing and buying video games.",
+    "category": "code",
+    "technologies": ["javascript"],
+    "thumbnail": {
+      "path": "/images/thumbnails/code.svg",
+      "alt": "Code illustration"
+    },
+    "preview": {
+      "path": "/images/previews/21.jpg",
+      "alt": ""
+    },
+    "date": 2021,
+    "previewUrl": "https://www.mjwals.co.uk/gamestore",
+    "codeUrl": "https://github.com/mjwals/gamestore-v1"
+  },
+  {
+    "title": "accordion",
+    "desc": "A prototype featuring multiple accordions.",
+    "category": "code",
+    "technologies": ["javascript"],
+    "thumbnail": {
+      "path": "/images/thumbnails/code.svg",
+      "alt": "Code illustration"
+    },
+    "preview": {
+      "path": "/images/previews/20.jpg",
+      "alt": ""
+    },
+    "date": 2019,
+    "previewUrl": "https://www.mjwals.co.uk/accordion",
+    "codeUrl": "https://github.com/mjwals/accordion"
+  },
+  {
+    "title": "carousel",
+    "desc": "A prototype Carousel.",
+    "category": "code",
+    "technologies": ["javascript"],
+    "thumbnail": {
+      "path": "/images/thumbnails/code.svg",
+      "alt": "Code illustration"
+    },
+    "preview": {
+      "path": "/images/previews/19.jpg",
+      "alt": ""
+    },
+    "date": 2019,
+    "previewUrl": "https://www.mjwals.co.uk/carousel",
+    "codeUrl": "https://github.com/mjwals/carousel"
+  },
+  {
+    "title": "context menu",
+    "desc": "A prototype context menu.",
+    "category": "code",
+    "technologies": ["javascript"],
+    "thumbnail": {
+      "path": "/images/thumbnails/code.svg",
+      "alt": "Code illustration"
+    },
+    "preview": {
+      "path": "/images/previews/18.jpg",
+      "alt": ""
+    },
+    "date": 2019,
+    "previewUrl": "https://www.mjwals.co.uk/contextmenu",
+    "codeUrl": "https://github.com/mjwals/context-menu"
+  },
+  {
+    "title": "dropdowns",
+    "desc": "A prototype featuring multiple dropdown menus.",
+    "category": "code",
+    "technologies": ["javascript"],
+    "thumbnail": {
+      "path": "/images/thumbnails/code.svg",
+      "alt": "Code illustration"
+    },
+    "preview": {
+      "path": "/images/previews/17.jpg",
+      "alt": ""
+    },
+    "date": 2019,
+    "previewUrl": "https://www.mjwals.co.uk/multidropdowns",
+    "codeUrl": "https://github.com/mjwals/dropdowns"
+  },
+  {
+    "title": "menu tabs",
+    "desc": "A prototype featuring menu tabs.",
+    "category": "code",
+    "technologies": ["javascript"],
+    "thumbnail": {
+      "path": "/images/thumbnails/code.svg",
+      "alt": "Code illustration"
+    },
+    "preview": {
+      "path": "/images/previews/16.jpg",
+      "alt": ""
+    },
+    "date": 2019,
+    "previewUrl": "https://www.mjwals.co.uk/tabs/",
+    "codeUrl": "https://github.com/mjwals/tabs"
+  },
+  {
+    "title": "component library",
+    "desc": "A prototype custom component library.",
+    "category": "code",
+    "technologies": ["html"],
+    "thumbnail": {
+      "path": "/images/thumbnails/code.svg",
+      "alt": "Code illustration"
+    },
+    "preview": {
+      "path": "/images/previews/14.jpg",
+      "alt": ""
+    },
+    "date": 2019,
+    "previewUrl": "https://www.mjwals.co.uk/customComponentLibrary",
+    "codeUrl": "https://github.com/mjwals/custom-component-library"
+  },
+  {
+    "title": "login screen",
+    "desc": "A prototype login screen.",
+    "category": "code",
+    "technologies": ["html"],
+    "thumbnail": {
+      "path": "/images/thumbnails/code.svg",
+      "alt": "Code illustration"
+    },
+    "preview": {
+      "path": "/images/previews/09.jpg",
+      "alt": ""
+    },
+    "date": 2019,
+    "previewUrl": "https://www.mjwals.co.uk/loginScreen/",
+    "codeUrl": "https://github.com/mjwals/login-screen"
+  },
+  {
+    "title": "company logo",
+    "desc": "A logo design for a local business.",
+    "category": "design",
+    "technologies": ["photoshop"],
+    "thumbnail": {
+      "path": "/images/thumbnails/design.svg",
+      "alt": "Design illustration"
+    },
+    "preview": {
+      "path": "/images/previews/15.jpg",
+      "alt": ""
+    },
+    "fullSize": {
+      "path": "/images/fullSize/13.jpg",
+      "alt": "company logo"
+    },
+    "date": 2019,
+    "previewUrl": "",
+    "codeUrl": ""
+  },
+  {
+    "title": "agent editor",
+    "desc": "An interface for managing contact centre agents.",
+    "category": "design",
+    "technologies": ["photoshop"],
+    "thumbnail": {
+      "path": "/images/thumbnails/design.svg",
+      "alt": "Design illustration"
+    },
+    "preview": {
+      "path": "/images/previews/13.jpg",
+      "alt": ""
+    },
+    "fullSize": {
+      "path": "/images/fullSize/11.jpg",
+      "alt": "agent editor"
+    },
+    "date": 2019,
+    "previewUrl": "",
+    "codeUrl": ""
+  },
+  {
+    "title": "agent email editor",
+    "desc": "An interface that enables contact centre agents to manage their emails.",
+    "category": "design",
+    "technologies": ["photoshop"],
+    "thumbnail": {
+      "path": "/images/thumbnails/design.svg",
+      "alt": "Design illustration"
+    },
+    "preview": {
+      "path": "/images/previews/12.jpg",
+      "alt": ""
+    },
+    "fullSize": {
+      "path": "/images/fullSize/10.jpg",
+      "alt": "agent email editor"
+    },
+    "date": 2019,
+    "previewUrl": "",
+    "codeUrl": ""
+  },
+  {
+    "title": "agent dashboard",
+    "desc": "A real-time contact centre dashboard.",
+    "category": "design",
+    "technologies": ["photoshop"],
+    "thumbnail": {
+      "path": "/images/thumbnails/design.svg",
+      "alt": "Design illustration"
+    },
+    "preview": {
+      "path": "/images/previews/11.jpg",
+      "alt": ""
+    },
+    "fullSize": {
+      "path": "/images/fullSize/9.jpg",
+      "alt": "agent dashboard"
+    },
+    "date": 2019,
+    "previewUrl": "",
+    "codeUrl": ""
+  },
+  {
+    "title": "agent login page",
+    "desc": "A login page for contact centre agents.",
+    "category": "design",
+    "technologies": ["photoshop"],
+    "thumbnail": {
+      "path": "/images/thumbnails/design.svg",
+      "alt": "Design illustration"
+    },
+    "preview": {
+      "path": "/images/previews/10.jpg",
+      "alt": ""
+    },
+    "fullSize": {
+      "path": "/images/fullSize/8.jpg",
+      "alt": "agent login page"
+    },
+    "date": 2019,
+    "previewUrl": "",
+    "codeUrl": ""
+  },
+  {
+    "title": "app homepage",
+    "desc": "Early concept design for an idea-tracking app.",
+    "category": "design",
+    "technologies": ["photoshop"],
+    "thumbnail": {
+      "path": "/images/thumbnails/design.svg",
+      "alt": "Design illustration"
+    },
+    "preview": {
+      "path": "/images/previews/08.jpg",
+      "alt": ""
+    },
+    "fullSize": {
+      "path": "/images/fullSize/12.jpg",
+      "alt": "app homepage"
+    },
+    "date": 2017,
+    "previewUrl": "",
+    "codeUrl": ""
+  },
+  {
+    "title": "charity homepage",
+    "desc": "Early concept design for a newly formed charity.",
+    "category": "design",
+    "technologies": ["photoshop"],
+    "thumbnail": {
+      "path": "/images/thumbnails/design.svg",
+      "alt": "Design illustration"
+    },
+    "preview": {
+      "path": "/images/previews/07.jpg",
+      "alt": ""
+    },
+    "fullSize": {
+      "path": "/images/fullSize/7.jpg",
+      "alt": "charity homepage"
+    },
+    "date": 2017,
+    "previewUrl": "",
+    "codeUrl": ""
+  },
+  {
+    "title": "order booking",
+    "desc": "A design for an order-booking application.",
+    "category": "design",
+    "technologies": ["photoshop"],
+    "thumbnail": {
+      "path": "/images/thumbnails/design.svg",
+      "alt": "Design illustration"
+    },
+    "preview": {
+      "path": "/images/previews/06.jpg",
+      "alt": ""
+    },
+    "fullSize": {
+      "path": "/images/fullSize/6.jpg",
+      "alt": "order booking"
+    },
+    "date": 2015,
+    "previewUrl": "",
+    "codeUrl": ""
+  },
+  {
+    "title": "infographic",
+    "desc": "A warehouse operations infographic.",
+    "category": "design",
+    "technologies": ["photoshop"],
+    "thumbnail": {
+      "path": "/images/thumbnails/design.svg",
+      "alt": "Design illustration"
+    },
+    "preview": {
+      "path": "/images/previews/05.jpg",
+      "alt": ""
+    },
+    "fullSize": {
+      "path": "/images/fullSize/5.jpg",
+      "alt": "infographic"
+    },
+    "date": 2015,
+    "previewUrl": "",
+    "codeUrl": ""
+  },
+  {
+    "title": "a4 brochure",
+    "desc": "A4 brochure promoting a video-based learning portal.",
+    "category": "design",
+    "technologies": ["photoshop"],
+    "thumbnail": {
+      "path": "/images/thumbnails/design.svg",
+      "alt": "Design illustration"
+    },
+    "preview": {
+      "path": "/images/previews/04.jpg",
+      "alt": ""
+    },
+    "fullSize": {
+      "path": "/images/fullSize/4.jpg",
+      "alt": "a4 brochure"
+    },
+    "date": 2015,
+    "previewUrl": "",
+    "codeUrl": ""
+  },
+  {
+    "title": "powerpoint deck",
+    "desc": "A PowerPoint presentation for a healthcare e-commerce app.",
+    "category": "design",
+    "technologies": ["photoshop"],
+    "thumbnail": {
+      "path": "/images/thumbnails/design.svg",
+      "alt": "design illustration"
+    },
+    "preview": {
+      "path": "/images/previews/03.jpg",
+      "alt": ""
+    },
+    "fullSize": {
+      "path": "/images/fullSize/3.jpg",
+      "alt": "powerpoint deck"
+    },
+    "date": 2014,
+    "previewUrl": "",
+    "codeUrl": ""
+  },
+  {
+    "title": "advertising banner",
+    "desc": "4-metre advertising banner for an e-learning company.",
+    "category": "design",
+    "technologies": ["photoshop"],
+    "thumbnail": {
+      "path": "/images/thumbnails/design.svg",
+      "alt": "design illustration"
+    },
+    "preview": {
+      "path": "/images/previews/02.jpg",
+      "alt": ""
+    },
+    "fullSize": {
+      "path": "/images/fullSize/2.jpg",
+      "alt": "advertising banner"
+    },
+    "date": 2014,
+    "previewUrl": "",
+    "codeUrl": ""
+  },
+  {
+    "title": "login page",
+    "desc": "A login interface design for an e-learning application.",
+    "category": "design",
+    "technologies": ["photoshop"],
+    "thumbnail": {
+      "path": "/images/thumbnails/design.svg",
+      "alt": "design illustration"
+    },
+    "preview": {
+      "path": "/images/previews/01.jpg",
+      "alt": ""
+    },
+    "fullSize": {
+      "path": "/images/fullSize/1.jpg",
+      "alt": "login page"
+    },
+    "date": 2014,
+    "previewUrl": "",
+    "codeUrl": ""
+  }
+]
