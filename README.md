@@ -5,6 +5,7 @@ In 2026, I set out to sharpen my development skills by redesigning and rebuildin
 ## Tech stack
 - Vue v3.5.26
 - Vue-Router v4.6.4
+- Tailwind CSS v4.1.18
 - Pinia v3.0.4
 - Vite v7.3.0
 - Dayjs v1.11.19
