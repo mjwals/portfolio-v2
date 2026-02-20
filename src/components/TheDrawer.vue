@@ -46,9 +46,10 @@ const handleOpenLink = (url) => {
       <div class="flex flex-col items-center w-full">
         <!-- preview -->
         <div
+          v-if="project?.preview?.path"
           class="rounded"
           :style="{
-            backgroundImage: `url(${project?.preview?.path})`,
+            backgroundImage: `url(${project.preview.path})`,
             backgroundRepeat: 'no-repeat',
             backgroundPosition: 'left top',
             width: '100%',
